@@ -72,12 +72,12 @@ This aims to identify the `closest car parks` to a specified target location usi
 # Module 19
 ## Introduction to Git
 ### Branch Operations used
-- Create a branch for a new feature:
-- Checkout the branch:
-- Add changes to a file:
-- Add and commit changes:
-- Merge the feature branch back into master:
-- Handle merge conflicts if any, and finalize the merge:
-- To reset and clean up your Git repository:
+- Create a branch for a new feature
+- Checkout the branch
+- Add changes to a file
+- Add and commit changes
+- Merge the feature branch back into master
+- Handle merge conflicts if any, and finalize the merge
+- To reset and clean up your Git repository
 ### Final Exercise
 `Create the NIRailways map in a git tree`
